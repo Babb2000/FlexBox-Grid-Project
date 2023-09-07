@@ -1,0 +1,21 @@
+/*Styling to set up Webpage and remove anyunwated properties declared in the root selectors*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* :root{ Psuedo Root Element that has higher specificity than viewport
+
+} */
+
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+/*End of Root Styling*/
+
