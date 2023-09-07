@@ -44,7 +44,7 @@ body{
     
 }
 
-.flexItemContainer{
+.flexbox-item{
     height: 100%;
     border: 1px solid white;
 
